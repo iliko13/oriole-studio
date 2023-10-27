@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Montserrat:wght@700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Dm Sans", sans-serif;
+  background-color: rgb(255, 207, 175);
+}
+
+.theName {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.reviewSection {
+  font-family: "Dm Sans", sans-serif;
+  font-weight: 400;
+}
