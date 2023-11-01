@@ -19,7 +19,7 @@ const Footer = () => {
         <div className="mt-16  grid basis-1/4 columns-1 md:mt-0">
           <div className="flex items-center justify-start space-x-4 md:text-3xl">
             <div className="text-blue-500 hover:text-blue-600">
-              <Link to="">
+              <Link to="https://www.facebook.com/ORKOLStudio">
                 <AiFillFacebook />
               </Link>
             </div>
